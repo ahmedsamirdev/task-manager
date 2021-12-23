@@ -19,8 +19,6 @@ Simple task list app that enables you to create a user account and start writing
 
 - Create, edit and delete tasks.
 
-- Filter your tasks by completion.
-
 - Sort tasks by date.
 
 - Choose count of tasks to see.
