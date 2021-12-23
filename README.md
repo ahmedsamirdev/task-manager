@@ -1,6 +1,6 @@
 # Task Manager API
 
-Simple task list app that enables you to create a user account and start writing down what you have to do (This repo is backend.).
+Tasks list app that enables you to create a user account and start writing down what you have to do with CRUD (This repo is backend.).
 
 
 
