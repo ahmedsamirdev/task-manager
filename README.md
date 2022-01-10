@@ -32,10 +32,10 @@ Tasks list app that enables you to create a user account and start writing down 
 ## Running locally
 
 ```
-$ git clone https://github.com/ahmedsamirdev/task-manager.git
-$ cd task-manager
-$ yarn
-$ yarn dev
+git clone https://github.com/ahmedsamirdev/task-manager.git
+cd task-manager
+yarn
+yarn dev
 ```
 
 Make sure to Create a `dev.env` file inside a config folder in the root of the project with the following:
